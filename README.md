@@ -19,10 +19,10 @@
 
 <h2> My stats </h2>
 
-![Christo's GitHub stats](https://github-readme-stats.vercel.app/api?username=button99&show_icons=true&theme=cobalt)
+![Christo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Button99&show_icons=true&theme=cobalt)
 
 <h4> My top most used Languages </h4>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=button99&layout=compact&theme=cobalt)](https://github.com/kx0101/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Button99&layout=compact&theme=cobalt)](https://github.com/kx0101/github-readme-stats)
 
 <h4> My work </h4>
 <p>
