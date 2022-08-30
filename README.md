@@ -23,6 +23,8 @@
 
 <h4> My top most used Languages </h4>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Button99)](https://github.com/anuraghazra/github-readme-stats)
+
 <h4> My work </h4>
 
 <p>
