@@ -2,9 +2,9 @@
 
 <p>My name is Christos Koubis and I an ambitious technology enthusiast with passion and love about technology sector!</p>
 <br />
-<p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue</p>
+<p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue </p>
 <br />
-<p> - 🌱 I’m currently learning Laravel, Vue </p>
+<p> - 🌱 I’m currently learning Laravel, Vue, Spring </p>
 <p> - 📫 How to reach me: <br />
  <ul>
   <li>
