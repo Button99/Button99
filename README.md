@@ -1,9 +1,12 @@
 ### Hello there 👋
 
-<p>My name is Christos Koubis and I an ambitious technology enthusiast with passion and love about technology sector!</p>
+<p>My name is Christos Koubis and I am an ambitious technology enthusiast with passion and love about technology sector!</p>
+<br />
+<p> - :student: I am studying Computer Science and Engineering at University of Thessaly (Former TEI of Larisa) </p>
 <br />
 <p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue </p>
 <br />
+<p> - 👨‍💻 Currently doing my Internship at COSMOTE as a Network IP/PBX Technician
 <p> - 🌱 I’m currently learning Laravel, Vue, Spring </p>
 <p> - 📫 How to reach me: <br />
  <ul>
@@ -23,7 +26,7 @@
 
 <h4> My top most used Languages </h4>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Button99&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Button99&theme=cobalt&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4> My work </h4>
 
