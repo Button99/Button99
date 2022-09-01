@@ -7,7 +7,9 @@
 <p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue </p>
 <br />
 <p> - 👨‍💻 I'm an Intern at COSMOTE as a Network IP/PBX Technician.
+<br />
 <p> - 🌱 I’m currently learning Laravel, Vue, Spring. </p>
+<br />
 <p> - 📫 How to reach me: <br />
  <ul>
   <li>
