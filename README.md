@@ -4,15 +4,15 @@
 <br />
 <p> - :student: I am studying Computer Science and Engineering at University of Thessaly (Former TEI of Larisa) </p>
 <br />
-<p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue </p>
+<p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue. </p>
 <br />
-<p> - 👨‍💻 I'm an Intern at COSMOTE as a Network IP/PBX Technician.
+<p> - 👨‍💻 I'm an Intern at COSMOTE as a Network IP/PBX Technician. </p>
 <br />
 <p> - 🌱 I’m currently learning Laravel, Vue, Spring. </p>
 <br />
 <p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</p>
 <br />
-<p> - 📫 How to reach me: <br />
+<p> - 📫 How to reach me: <br /> 
  <ul>
   <li>
      LinkedIn: <a href="www.linkedin.com/in/christos-koubis-9785811a8">Christos Koubis</a>
