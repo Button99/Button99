@@ -10,7 +10,7 @@
 <br />
 <p> - 🌱 I’m currently learning Laravel, Vue, Spring. </p>
 <br />
-<p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</p>
+<p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</a></p>
 <br />
 <p> - 📫 How to reach me: <br /> 
  <ul>
