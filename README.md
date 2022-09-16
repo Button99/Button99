@@ -15,7 +15,7 @@
 <p> - 📫 How to reach me: <br /> 
  <ul>
   <li>
-     LinkedIn: <a href="www.linkedin.com/in/christos-koumpis-9785811a8">Christos Koumpis</a>
+     LinkedIn: <a href="https://www.linkedin.com/in/christos-koumpis-9785811a8">Christos Koumpis</a>
   </li>
   <br />
   <li>
