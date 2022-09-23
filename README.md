@@ -4,7 +4,7 @@
 <br />
 <p> - :student: I am studying Computer Science and Engineering at University of Thessaly (Former TEI of Larisa) </p>
 <br />
-<p> - 🔭 I’m currently working on my thesis creating a Rental Accommodation platform with Laravel and Vue. </p>
+<p> - 🔭 I’m currently working on PurchaseList platform. </p>
 <br />
 <p> - 👨‍💻 I'm an Intern at COSMOTE as a Network IP/PBX Technician. </p>
 <br />
