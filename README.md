@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<p>My name is Christos Koubis and I am an ambitious technology enthusiast with passion and love about the technology sector!</p>
+<p>My name is Christos Koumpis and I am an ambitious technology enthusiast with passion and love about the technology sector!</p>
 <br />
 <p> - :student: I am studying Computer Science and Engineering at University of Thessaly (Former TEI of Larisa) </p>
 <br />
