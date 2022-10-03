@@ -6,8 +6,6 @@
 <br />
 <p> - 🔭 I’m currently working on PurchaseList platform. </p>
 <br />
-<p> - 👨‍💻 I'm an Intern at COSMOTE as a Network IP/PBX Technician. </p>
-<br />
 <p> - 🌱 I’m currently learning Laravel, Vue, Spring. </p>
 <br />
 <p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</a></p>
