@@ -4,7 +4,7 @@
 <br />
 <p> - :student: I am studying Computer Science and Engineering at University of Thessaly (Former TEI of Larisa) </p>
 <br />
-<p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://purchaselist-app.herokuapp.com/">Purchase List</a> </p>
+<p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://purchase-list.website/">Purchase List</a> </p>
 <br />
 <p> - 🌱 I’m currently learning Laravel, Vue, Spring. </p>
 <br />
