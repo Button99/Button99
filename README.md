@@ -2,11 +2,11 @@
 
 <p>My name is Christos Koumpis and I am an ambitious technology enthusiast with passion and love about the technology sector!</p>
 <br />
-<p> - :student: I am studying Computer Science and Engineering at University of Thessaly (Former TEI of Larisa) </p>
+<p> - :student: I hold a degree in Computer Science and Engineering, which I successfully completed at the University of Thessaly (formerly known as TEI of Larisa). </p>
 <br />
 <p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://purchase-list.website/">Purchase List</a> </p>
 <br />
-<p> - 🌱 I’m currently learning Laravel, Vue, Spring Boot. </p>
+<p> - 🌱 I’m currently learning Laravel, Vue. </p>
 <br />
 <p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</a></p>
 <br />
