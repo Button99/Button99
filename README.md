@@ -6,7 +6,7 @@
 <br />
 <p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://purchase-list.website/">Purchase List</a> </p>
 <br />
-<p> - 🌱 I’m currently learning Laravel, Vue. </p>
+<p> - 🌱 I’m currently learning Laravel, Vue, .NET. </p>
 <br />
 <p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</a></p>
 <br />
