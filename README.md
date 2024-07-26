@@ -32,16 +32,20 @@
 
 <h4> My work </h4>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Rental-Accommodation&theme=cobalt&langs_count=3)](https://github.com/Button99/Rental-Accommodation) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=WebHotel-Project&theme=cobalt&langs_count=3)](https://github.com/Button99/WebHotel-Project) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Rental-Accommodation&theme=cobalt&langs_count=3)](https://github.com/Button99/Rental-Accommodation) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=WebHotel-Project&theme=cobalt&langs_count=3)](https://github.com/Button99/WebHotel-Project) 
 
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Algorithms&theme=cobalt&langs_count=3)](https://github.com/Button99/Algorithms)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Speaky&theme=cobalt&langs_count=3)](https://github.com/Button99/Speaky)
 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Discord-Bot&theme=cobalt&langs_count=3)](https://github.com/Button99/Discord-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=WP-Project&theme=cobalt&langs_count=3)](https://github.com/Button99/WP-Project)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Simple-API&theme=cobalt&langs_count=3)](https://github.com/Button99/Simple-API)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Simple-API&theme=cobalt&langs_count=3)](https://github.com/Button99/Simple-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Discord-Bot-Csharp&theme=cobalt&langs_count=3)](https://github.com/Button99/Discord-Bot-Csharp)
+
 </p>
 
