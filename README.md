@@ -45,7 +45,6 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Simple-API&theme=cobalt&langs_count=3)](https://github.com/Button99/Simple-API)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Discord-Bot-Csharp&theme=cobalt&langs_count=3)](https://github.com/Button99/Discord-Bot-Csharp)
 
 </p>
 
