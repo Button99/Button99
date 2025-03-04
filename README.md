@@ -4,7 +4,7 @@
 <br />
 <p> - :student: I hold a degree in Computer Science and Engineering, which I successfully completed at the University of Thessaly (Former TEI of Larisa). </p>
 <br />
-<p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://purchase-list.website/">Purchase List</a> </p>
+<p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://github.com/Button99/Purchase-List">Purchase List</a> </p>
 <br />
 <p> - 🌱 I’m currently learning Laravel, Vue, .NET. </p>
 <br />
@@ -35,16 +35,15 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Rental-Accommodation&theme=cobalt&langs_count=3)](https://github.com/Button99/Rental-Accommodation) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=WebHotel-Project&theme=cobalt&langs_count=3)](https://github.com/Button99/WebHotel-Project) 
 
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Algorithms&theme=cobalt&langs_count=3)](https://github.com/Button99/Algorithms)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=DoItInPHP&theme=cobalt&langs_count=3)](https://github.com/Button99/DoItInPHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Speaky&theme=cobalt&langs_count=3)](https://github.com/Button99/Speaky)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Discord-Bot&theme=cobalt&langs_count=3)](https://github.com/Button99/Discord-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=WP-Project&theme=cobalt&langs_count=3)](https://github.com/Button99/WP-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Purchase-List&theme=cobalt&langs_count=3)](https://github.com/Button99/Purchase-List)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=Simple-API&theme=cobalt&langs_count=3)](https://github.com/Button99/Simple-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Button99&repo=php-prompt&theme=cobalt&langs_count=3)](https://github.com/Button99/php-prompt)
 
 </p>
 
