@@ -4,9 +4,7 @@
 <br />
 <p> - :student: I hold a degree in Computer Science and Engineering, which I successfully completed at the University of Thessaly (Former TEI of Larisa). </p>
 <br />
-<p> - 🔭 I’m currently working on PurchaseList platform. <b>Link:</b> <a href="https://github.com/Button99/Purchase-List">Purchase List</a> </p>
-<br />
-<p> - 🌱 I’m currently learning Laravel, Vue, .NET. </p>
+<p> - 🌱 I’m currently learning Laravel, Vue. </p>
 <br />
 <p> - :book: LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</a></p>
 <br />
