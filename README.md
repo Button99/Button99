@@ -1,19 +1,22 @@
-### Hello there 👋
+# Hey, I'm Christos Koumpis
 
-My name is **Christos Koumpis** and I’m an ambitious technology enthusiast with a passion for all things tech! 🚀  
-I love learning, building, and pushing the limits of what’s possible.
+Software engineer based in Athens.
 
----
+I like contributing to open source and learning from real projects.
 
-## :book: Profiles
-- LeetCode profile: <a href="https://leetcode.com/Button99/">Button99</a>
-- Personal website: <a href="https://christoskoumpis.com/">christoskoumpis.com</a>
----
+Most of my work is around PHP and Laravel.
 
-## 📫 How to reach me:
-- LinkedIn: <a href="https://www.linkedin.com/in/christos-koumpis-9785811a8">Christos Koumpis</a>
-- <a href="mailto:christoskoubis@yahoo.com">Mail me!</a>
-  
-## 📊 Github Stats
-![Christo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Button99&show_icons=true&theme=cobalt)
+**I use Neovim btw.**
+
+## Around The Web
+
+- Website: [christoskoumpis.com](https://christoskoumpis.com/)
+- LinkedIn: [Christos Koumpis](https://www.linkedin.com/in/christos-koumpis-9785811a8)
+- X: [@button99G](https://x.com/button99G)
+- LeetCode: [Button99](https://leetcode.com/Button99/)
+- Email: [christoskoubis@yahoo.com](mailto:christoskoubis@yahoo.com)
+
+## GitHub Stats
+
+![Christos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Button99&show_icons=true&theme=cobalt)
 
